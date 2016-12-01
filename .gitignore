@@ -7,3 +7,5 @@ target/
 *.ipr
 
 *.mp4
+node_modules
+public
