@@ -1,0 +1,6 @@
+dependencies=web,actuator&
+applicationName=JustGifApplication&
+artifactId=just-gif-it&
+description=just-gif-it&
+groupId=com.ash&
+packageName=com.ash
